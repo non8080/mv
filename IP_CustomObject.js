@@ -51,7 +51,7 @@
  *    $gameSystem.deleteCustomObject('myObject');
  *
  * 7. 指定したカスタムオブジェクトの中身を返す
- *    $gameSystem.getElementFromObject('myObject');　//{ name: 'A', value: 'someValue' }
+ *    $gameSystem.getElementFromObject('myObject');　//{ name: 'A', value: 10 }
  *
  * 8. すべてのカスタムオブジェクトを返す
  *    $gameSystem.listCustomObjects();
